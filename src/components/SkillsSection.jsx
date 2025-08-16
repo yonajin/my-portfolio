@@ -67,7 +67,7 @@ export const SkillsSection = () => {
               className="bg-card p-6 rounded-lg shadow-xs card-hover"
             >
               <img
-                src={`src/assets/${skill.icon}`}
+                src={`./logo/${skill.icon}`}
                 alt={`${skill.name} icon`}
                 className="w-12 h-12 mx-auto mb-4"
               />

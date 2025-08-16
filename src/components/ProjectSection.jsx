@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "U-Eat",
     description: "A simple and intuitive ordering app developed using Android.",
-    image: "./src/ueats.png",
+    image: "./images/ueats.png",
     tags: ["Android Studio", "Kotlin", "Firebase"],
     demoUrl: "#",
     githubUrl: "https://github.com/yonajin/U-Eat",
@@ -15,7 +15,7 @@ const projects = [
     title: "Silent Writer",
     description:
       "A personal diary app designed in Figma, focused on simplicity and user-friendly navigation.",
-    image: "./src/silentwriter.png",
+    image: "./images/silentwriter.png",
     tags: ["Figma"],
     demoUrl: "#",
     githubUrl: "#",
@@ -25,7 +25,7 @@ const projects = [
     title: "Pangasinan Travels",
     description:
       "A web-based application that helps users plan their trips. It features user account creation and login, with data securely stored using MySQL.",
-    image: "./src/pangtrav.png",
+    image: "./images/pangtrav.png",
     tags: ["HTML/CSS", "Javascript", "PHP", "MySQL", "XAMPP"],
     demoUrl: "#",
     githubUrl: "https://github.com/yonajin/PANGASINAN-TRAVELS",

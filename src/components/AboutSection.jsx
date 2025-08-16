@@ -17,7 +17,7 @@ export const AboutSection = () => {
           {" "}
           <div className="ml-135">
             <TiltedCard
-              imageSrc=".public/images/ako.png"
+              imageSrc="./images/ako.png"
               altText="Fiona Gene"
               captionText="Fiona Gene"
               containerHeight="400px"
@@ -106,7 +106,7 @@ export const AboutSection = () => {
                 <PixelTransition
                   firstContent={
                     <img
-                      src="./src/iskol1.png"
+                      src="./images/iskol1.png"
                       alt="urdaneta city national highschool"
                       style={{
                         width: "100%",
@@ -126,7 +126,7 @@ export const AboutSection = () => {
                       }}
                     >
                       <img
-                        src="./src/ucnhs_logo.jpg"
+                        src="./images/ucnhs_logo.jpg"
                         alt="urdaneta city national highschool"
                       />
                     </div>
@@ -152,7 +152,7 @@ export const AboutSection = () => {
               <PixelTransition
                 firstContent={
                   <img
-                    src="./src/iskol2.png"
+                    src="./images/iskol2.png"
                     alt="university of pangasinan urdaneta"
                     style={{
                       width: "100%",
@@ -172,7 +172,7 @@ export const AboutSection = () => {
                     }}
                   >
                     <img
-                      src="./src/upang_logo.png"
+                      src="./images/upang_logo.png"
                       alt="university of pangasinan urdaneta"
                     />
                   </div>
@@ -196,7 +196,7 @@ export const AboutSection = () => {
               <img
                 className="h-80 w-130 rounded-4xl border-2
         border-white rounded-[30px]"
-                src="./src/cert1.jpg"
+                src="./images/cert1.jpg"
                 alt="computer systems servicing nc ii"
               />
             </div>
@@ -206,7 +206,7 @@ export const AboutSection = () => {
               <img
                 className="h-80 w-130 rounded-4xl border-2
         border-white rounded-[30px]"
-                src="./src/cert2.png"
+                src="./images/cert2.png"
                 alt="udemy certificate"
               />
             </div>
