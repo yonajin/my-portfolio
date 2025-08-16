@@ -17,7 +17,7 @@ export const AboutSection = () => {
           {" "}
           <div className="ml-135">
             <TiltedCard
-              imageSrc="./src/ako.png"
+              imageSrc=".public/images/ako.png"
               altText="Fiona Gene"
               captionText="Fiona Gene"
               containerHeight="400px"
