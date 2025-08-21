@@ -1,5 +1,6 @@
 {
   "name": "my-portfolio",
+  "homepage": "https://yonajin.github.io/my-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -42,5 +43,9 @@
     "globals": "^16.2.0",
     "vite": "^7.1.2"
   },
+<<<<<<< HEAD
   "homepage": "https://yonajin.github.io/my-portfolio/"
+=======
+  
+>>>>>>> 4b0e15b9833fc660b62deb99a58c2131693b2ef4
 }

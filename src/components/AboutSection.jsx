@@ -33,7 +33,6 @@ export const AboutSection = () => {
           </div>
           <div className="space-y-5">
             <h3 className="text-2xl font-semibold">Fiona Gene U. Basa</h3>
-            <span class="fi fi-ph"></span>
             <h2>Frontend Developer</h2>
 
             <p className="ml-100 mr-100">
